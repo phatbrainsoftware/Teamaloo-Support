@@ -1,2 +1,2 @@
-# Teamaloo-Support
+# Teamaloo
 Simple and affordable team management software.
